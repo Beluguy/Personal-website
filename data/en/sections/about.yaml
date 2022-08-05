@@ -32,7 +32,7 @@ and fly drones (currently learning how to fly FPV!).'
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: ""
+  url: "hello@marcusc.me"
 
 - name: Github
   icon: "fab fa-github"
@@ -41,8 +41,8 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+# - title: "My Resume"
+#  url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
