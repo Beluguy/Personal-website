@@ -12,7 +12,7 @@ description: Portfolio/personal website of Marcus Cheng.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Q&A
+- name: 
   url: # 
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: false

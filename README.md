@@ -1,3 +1,3 @@
-# Source code for my personal website
+# Marcusc.me
 
 My portfolio/personal website build with hugo using the Toha theme.

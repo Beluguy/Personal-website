@@ -12,10 +12,10 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Academic
+- name: academic
   filter: "Academic"
 - name: Hobby
-  filter: "Hobby"
+  filter: "hobby"
 
 # your projects
 projects:
@@ -27,7 +27,7 @@ projects:
   url: "https://github.com/Beluguy/Personal-website"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 'This is the website you are on right now! It is my first website 
   and built using Hugo with the Toha theme, hosted on Cloudflare pages.'
-  tags: ["Hobby", "Academic", "Personal website", "Hugo"]
+  tags: ["hobby", "academic", "personal website", "Hugo"]
 
 - name: First PCB Project
   logo: /images/sections/projects/a.png
@@ -35,15 +35,24 @@ projects:
   timeline: "August 2022"
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "#"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: 'In progress...'
-  tags: ["Hobby", "PCB", "Altium Designer"]
+  summary: 'In progress; link coming soon...'
+  tags: ["hobby", "PCB", "Altium Designer"]
 
 - name: Various PC builds
-  logo:  /images/sections/projects/computer.svg
+  logo: /images/sections/projects/computer.svg
   role: Parts selector & Builder
   timeline: "August 2022"
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "#"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 'I have built many desktop computers for my family and relatives. Link coming soon...'
-  tags: ["Hobby", "PC building", "Altium Designer"]
+  tags: ["hobby", "PC building", "Altium Designer"]
 
+- name: DJI FPV drone repair
+  logo: 
+  role: Repair technician?
+  timeline: "August 2022"
+  #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "#"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 'I crashed my drone😭. This repair requires disassmibling, 
+  soldering, and installing new parts. In progress; link coming soon...'
+  tags: ["hobby", "fpv", "drone", "repair"]
