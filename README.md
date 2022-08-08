@@ -12,8 +12,7 @@ Things that I used:
 * [Font Awesome](https://fontawesome.com/) for icons
 * [Unsplash](https://unsplash.com/) for background picture
 * [Cloudflare Pages](https://pages.cloudflare.com/) for website deployment 
-* [Namecheap](https://www.namecheap.com/) for free domain for student
-
-
+* [Namecheap](https://www.namecheap.com/) for domain name
+---
 Feel free to contact me to improve this website, or just in general. By contributing, you agree that your contributions will also be licensed under the MIT License. 
 
