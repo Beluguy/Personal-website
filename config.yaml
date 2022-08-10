@@ -69,7 +69,7 @@ params:
       enable: true
     # Enable and configure blog posts
     blog:
-      enable: false
+      enable: true
 
     # Enable & configure "Notes" features
     notes:
@@ -122,9 +122,9 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: false
+      enable: true
 
-    #Privacy settings 
+    # Privacy settings 
     privacy:
       disqus:
         disable: true
@@ -138,3 +138,11 @@ params:
         disable: true
       youtube:
         disable: true
+
+# Imaging Configuration
+imaging:
+  exif:
+    disableDate: false
+    disableLatLong: false
+    excludeFields: ""
+    includeFields: ""
