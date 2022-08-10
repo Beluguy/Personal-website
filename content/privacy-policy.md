@@ -16,7 +16,7 @@ author:
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural. For the purpose of this Privacy Policy:
 - "Website" refers to this website, accessible from https://marcusc.me .
 - "Service" refers to the Website.
-- "You" or "vistor" refers to the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+- "You" or "visitor" refers to the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 ---
 At marcusc.me, accessible from https://marcusc.me, one of my main priorities is the privacy of my visitors. This Privacy Policy document contains types of information that is collected and recorded by marcusc.me and how the information may be used.
 

@@ -15,7 +15,7 @@ author:
 The following definitions shall have the same meaning regardless of whether they appear in singular or in plural. For the purpose of this Disclaimer:
 - "Website" refers to this website, accessible from https://marcusc.me .
 - "Service" refers to the Website.
-- "You" or "vistor" refers to the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+- "You" or "visitor" refers to the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 ---
 The information contained on the Service is for general information purposes only.
 
