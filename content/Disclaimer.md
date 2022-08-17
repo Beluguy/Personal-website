@@ -44,4 +44,4 @@ All information in the Service is provided "as is", with no guarantee of complet
 I will not be liable to You or anyone else for any decision made or action taken in reliance on the information given by the Service or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
 ### Contact Us
-If you have any questions about this Disclaimer, You can contact me at hello@marcusc.me .
+If you have any questions about this Disclaimer, You can contact me at disclaimer@marcusc.me .

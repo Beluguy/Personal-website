@@ -20,7 +20,7 @@ The words of which the initial letter is capitalized have meanings defined under
 ---
 At marcusc.me, accessible from https://marcusc.me, one of my main priorities is the privacy of my visitors. This Privacy Policy document contains types of information that is collected and recorded by marcusc.me and how the information may be used.
 
-If you have additional questions or require more information about my Privacy Policy, do not hesitate to contact me at disclaimer@marcusc.me .
+If you have additional questions or require more information about my Privacy Policy, do not hesitate to contact me at privacy@marcusc.me .
 
 This Privacy Policy applies only to visitors of my website. This policy is not applicable to any information collected offline or via channels other than this website. Part of this Privacy Policy was created with the help of the [Free Privacy Policy Generator](https://www.privacypolicygenerator.info/).
 
