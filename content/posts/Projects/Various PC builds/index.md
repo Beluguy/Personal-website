@@ -7,7 +7,7 @@ menu:
     name: "Various PC builds"
     identifier: pc-building
     parent: Projects
-    weight: 20
+    weight: 9999999
 tags: ["hobby", "PC building"]
 author: 
   name: Marcus

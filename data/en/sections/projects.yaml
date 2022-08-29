@@ -32,7 +32,7 @@ projects:
 - name: First PCB Project
   logo: /images/sections/projects/a.png
   role: Designer?
-  timeline: "August 2022"
+  timeline: ""
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "#"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 'In progress; link coming soon...'
@@ -44,7 +44,7 @@ projects:
   timeline: "August 2022"
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "posts/projects/various-pc-builds"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: 'I have built many desktop computers for my family and relatives. '
+  summary: 'I have built many desktop computers for my family and relatives from parts that are tailored to their specific needs. '
   tags: ["hobby", "PC building"]
 
 - name: DJI FPV drone repair

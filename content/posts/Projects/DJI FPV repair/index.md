@@ -8,7 +8,7 @@ menu:
     name: DJI FPV drone repair
     identifier: DJI-FPV-drone-repair
     parent: Projects
-    weight: 10
+    weight: 20
 tags: ["hobby", "fpv", "drone", "repair"]
 author: 
   name: Marcus
