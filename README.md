@@ -5,7 +5,7 @@
 Howdy! I am glad that you found your way to the repo of my portfolio/personal website. This is my first website and I made it with basically no web development experience at all. I built it with [Hugo](https://gohugo.io/), using the [Toha](https://github.com/hugo-toha/toha) theme. Kudos to the [developer - Emruz Hossain
 ](https://github.com/hossainemruz) for making this theme and the helpful [documentations](https://toha-guides.netlify.app/posts/)!
 
-Things I used:
+ ### Things I used:
 * [Hugo](https://gohugo.io/) for a static site generator 
 * [Toha](https://github.com/hugo-toha/toha) for a simple, minimal theme
 * [Vecteezy](https://www.vecteezy.com/) for icons
