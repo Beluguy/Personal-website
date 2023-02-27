@@ -1,11 +1,11 @@
 # Copyright Notice
-copyright: Made on Earth by © Marcus Cheng 2022
+copyright: Made on Earth by © Marcus Cheng 2023
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: Please read the [Privacy Policy](privacy-policy) and [Disclaimer](disclaimer)
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio/personal website of Marcus Cheng.
+description: Portfolio/Personal website of Marcus Cheng.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -22,6 +22,6 @@ customMenus:
 openGraph:
   title: Marcus' Website
   type: website
-  description: Portfolio/personal website of Marcus Cheng.
+  description: Portfolio/Personal website of Marcus Cheng.
   image: images/author/marcus.jpg
   url: https://marcusc.me

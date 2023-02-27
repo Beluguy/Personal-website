@@ -11,19 +11,19 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Essential Computer Skills
+- name: Computer Hardware Skills
   logo: /images/sections/skills/logoaplus.svg
-  summary: "CompTIA A+ certified; able to build, repair, troubleshoot, and 
+  summary: "CompTIA A+ certified - able to build, repair, troubleshoot, and 
   set up PC quickly and efficiently. Also have experience troubleshooting 
   networking problems and repair mobile devices."
   url: "https://www.comptia.org/certifications/a"
 
-- name: Flying Drones
+- name: Operate (FPV) Drones
   logo: /images/sections/skills/quad.jpg
-  summary: "Certified for flying Small (<25kg) Remotely Piloted Aircraft System 
+  summary: "Certified for operating Small (<25kg) Remotely Piloted Aircraft System 
   (RPAS) for filming or any other recreational purposes in Canada."
   url: ""
 
-- name: Basic Soldering Skill
+- name: Electronics Prototyping
   logo: 
   summary: "Able to neatly solder on thru-hole components, surface-mount components, and wires to a board."

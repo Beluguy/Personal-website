@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Electrical engineering student  
+designation: Electrical Engineering Student  
 # your company information
 company:
   name: The University of British Columbia 
@@ -20,10 +20,10 @@ company:
 
 # a summary about you
 summary: 'I am a 2nd year EE student at UBC who is passionate about computers and electronics. 
-I am also part of the COTS (Commercial Off the Shelf) avionics subteam in UBC Rocket.
-Aside from school, I like to catch up with the latest tech news, 
-tinker with electronics, play table tennis, watch sci-fi movies, 
-and fly drones (currently learning how to fly FPV)!'
+I am also a member of UBC Rocket in the COTS (Commercial Off the Shelf) avionics subteam.
+Aside from school, I enjoy keeping up with the latest tech news, 
+tinkering with electronics, playing table tennis, watching sci-fi movies, 
+and flying drones (currently learning how to fly FPV)!'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
