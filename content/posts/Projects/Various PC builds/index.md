@@ -1,7 +1,7 @@
 ---
 title: "Various PC builds"
 date: 2022-08-10
-hero: images/PC2.jpeg
+hero: images/PC3.jpg
 menu:
   sidebar:
     name: "Various PC builds"

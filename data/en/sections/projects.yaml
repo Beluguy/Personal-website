@@ -22,7 +22,7 @@ projects:
 - name: Personal website
   logo: 
   role: Maker & Maintainer
-  timeline: "July 2022 - Present"
+  timeline: "Jul 2022 - Present"
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://github.com/Beluguy/Personal-website"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 'This is the website you are on right now! It is my first website 
@@ -41,7 +41,7 @@ projects:
 - name: Various PC builds
   logo: /images/sections/projects/computer.svg
   role: Parts selector & Builder
-  timeline: "August 2022"
+  timeline: "Aug 2022"
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "posts/projects/various-pc-builds"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 'I have built many desktop computers for my family and relatives from parts that are tailored to their specific needs. '
@@ -50,9 +50,20 @@ projects:
 - name: DJI FPV drone repair
   logo: /images/sections/projects/repair.svg
   role: Repair technician?
-  timeline: "August 2022"
+  timeline: "Aug 2022"
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "posts/projects/dji-fpv-repair"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: 'I crashed my drone😭. This repair requires disassembling, 
+  summary: 'I crashed my drone😭. This repair required disassembling, 
   soldering, and installing new parts. '
   tags: ["hobby", "fpv", "drone", "repair"]
+
+- name: Reflow Oven Controller
+  logo: /images/sections/projects/reflow/controller.jpg
+  #role: 
+  timeline: "Feb 2023"
+  #repo: "https://github.com/Beluguy/Elec-291/tree/main/reflow-oven-controller" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "posts/projects/reflow"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 'My teammates and I designed and built a reflow oven controller that controls the temperature of an oven via a PWM signal.'
+  tags: ["Academic", "elec 291", "reflow oven controller"]
+
+
