@@ -19,11 +19,11 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a 2nd year EE student at UBC who is passionate about computers,electronics and space. 
-I am also a member of UBC Rocket in the COTS (Commercial Off the Shelf) avionics subteam.
-Aside from school, I enjoy keeping up with the latest tech news, 
-tinkering with electronics, playing table tennis, watching sci-fi movies, 
-and flying drones (currently learning how to fly FPV)!'
+summary: 'Marcus Cheng is about to enter his third year of electrical engineering at UBC. 
+          He is passionate about computers, electronics and space. 
+          He is also a member of UBC Rocket in the COTS (Commercial Off the Shelf) avionics subteam.
+          Aside from school, he likes to keep up with the latest tech news, tinker with electronics, play table tennis, watch sci-fi movies, 
+          and fly FPV drones.' 
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -38,8 +38,8 @@ socialLinks:
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
-resourceLinks:
-# - title: "My Resume"
+#resourceLinks:
+#  title: "My Resume"
 #  url: "files/resume.pdf"
 
 # Show your badges
