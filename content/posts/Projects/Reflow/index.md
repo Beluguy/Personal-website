@@ -18,4 +18,5 @@ My teammates and I designed and built a reflow oven controller that controls the
 To verify that our controller is working, we made a board using our controller. It is perfect!👌We then hand solder the header pins and the USB port to it after.
 ![efm8](images/efm8.jpg)
 
-Here is the [link](https://www.youtube.com/watch?v=PtcOZ4iowKk) to our video presentation.
+Here is our video presentation for this project.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PtcOZ4iowKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

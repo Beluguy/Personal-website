@@ -21,7 +21,8 @@ Here is a picture of the robot:
 Here is a picture of the remote: 
 ![remote](images/TX.jpg)
 
-Here is the [link](https://www.youtube.com/watch?v=x-TR2Ii_tiQ) to our video presentation.
+Here is our video presentation for this project.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x-TR2Ii_tiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I was primarily responsible for the hardware of the robot. Therefore, I will talk mostly about the hardware.  
 
