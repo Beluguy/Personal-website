@@ -8,7 +8,7 @@ menu:
     name: Magnetic field controlled robot
     identifier: Mag-robot
     parent: Projects
-    weight: 8
+    weight: 15
 tags: ["Academic", "Elec 291", "Robot"]
 author: 
   name: Marcus
