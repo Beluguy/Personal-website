@@ -11,14 +11,14 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Computer Hardware Skills
-  logo: /images/sections/skills/logoaplus.svg
-  summary: "CompTIA A+ & Network+ certified - able to build, repair, troubleshoot, and 
+- name: IT Operations Specialist
+  logo: /images/sections/skills/CIOS.svg
+  summary: "CompTIA A+ & Network+ certified - can build, repair, troubleshoot, and 
   set up PC quickly and efficiently. Also have experience troubleshooting 
-  networking problems and repair mobile devices."
-  url: "https://www.comptia.org/certifications/a"
+  networking devices and repair mobile devices."
+  url: ""
 
-- name: Operate (FPV) Drones
+- name: (FPV) Drone Piloting
   logo: /images/sections/skills/quad.jpg
   summary: "Certified for operating Small (<25kg) Remotely Piloted Aircraft System 
   (RPAS) for filming or any other recreational purposes in Canada."
@@ -26,5 +26,5 @@ skills:
 
 - name: Electronics Prototyping
   logo: 
-  summary: "Proficient in hand & reflow soldering, breadboard work and using 
-  multimeter & osilloscope with circuit analysis knowledge to built intricate but neat circuits."
+  summary: "Proficient in SMT and THT soldering, breadboard work and using 
+  multimeter, osilloscope and signal generator with circuit analysis knowledge to built intricate but neat circuits."
