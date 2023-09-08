@@ -47,14 +47,14 @@ projects:
   and is built using Hugo with the Toha theme, deployed on Cloudflare Pages.'
   tags: ["Hobby", "Personal website", "Hugo", "Toha"]
 
-- name: Radio PCB 
-  logo: /images/sections/projects/UBC_rocket.jpg
+- name: First PCB Project
+  logo: /images/sections/projects/a.png
   role: Designer
-  timeline: "October 2022 - Jun 2023"
+  timeline: ""
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "posts/projects/radio-pcb"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: 'My teammate (Daniel) and I designed, built, and tested radio PCBs for one of the rockets at UBC Rocket.'
-  tags: ["Hobby", "PCB", "Autodesk Eagle", "UBC Rocket"]
+  url: "#"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 'In progress; link coming soon...'
+  tags: ["Hobby", "PCB", "Altium Designer"]
 
 - name: DJI FPV drone repair
   logo: /images/sections/projects/repair.svg

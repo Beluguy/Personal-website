@@ -8,7 +8,7 @@ menu:
     name: Reflow Oven Controller
     identifier: Reflow-Oven-Controller
     parent: Projects
-    weight: 15
+    weight: 9
 tags: ["Academic", "Elec 291", "Reflow soldering"]
 author: 
   name: Marcus
