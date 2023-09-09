@@ -26,7 +26,7 @@ projects:
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "posts/projects/mag-robot"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 'My teammates and I designed and built a remote controlled autonomous robot controlled via varing magnetic field from a remote that we also built.'
-  tags: ["Academic", "Elec 291", "Robot"]
+  tags: ["Academic", "ELEC291", "Robot"]
 
 - name: Reflow Oven Controller
   logo: /images/sections/projects/reflow/controller.jpg
@@ -35,7 +35,7 @@ projects:
   #repo: "https://github.com/Beluguy/Elec-291/tree/main/reflow-oven-controller" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "posts/projects/reflow"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 'My teammates and I designed and built a reflow oven controller that controls the temperature of an oven via a PWM signal.'
-  tags: ["Academic", "Elec 291", "Reflow soldering"]
+  tags: ["Academic", "ELEC291", "Reflow soldering"]
 
 - name: Personal website
   logo: /images/site/favicon.png
@@ -47,18 +47,18 @@ projects:
   and is built using Hugo with the Toha theme, deployed on Cloudflare Pages.'
   tags: ["Hobby", "Personal website", "Hugo", "Toha"]
 
-- name: First PCB Project
-  logo: /images/sections/projects/a.png
+- name: Radio PCB 
+  logo: /images/sections/projects/UBC_rocket.jpg
   role: Designer
-  timeline: ""
+  timeline: "October 2022 - Jun 2023"
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "#"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: 'In progress; link coming soon...'
-  tags: ["Hobby", "PCB", "Altium Designer"]
+  url: "posts/projects/radio-pcb"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 'My teammate (Daniel) and I designed, built, and tested radio PCBs for one of the rockets at UBC Rocket.'
+  tags: ["Hobby", "PCB", "Autodesk Eagle", "UBC Rocket"]
 
 - name: DJI FPV drone repair
   logo: /images/sections/projects/repair.svg
-  role: Repairer
+  role: Repair technician 
   timeline: "Aug 2022"
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "posts/projects/dji-fpv-repair"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
