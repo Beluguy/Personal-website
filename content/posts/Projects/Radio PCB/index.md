@@ -13,7 +13,7 @@ tags: ["Hobby", "PCB", "Autodesk Eagle", "UBC Rocket"]
 author: 
   name: Marcus
 ---
-[Daniel](https://danielzn.com/), my teammates and I designed, built, and tested radio PCBs for one of the rockets at [UBC Rocket](https://www.ubcrocket.com), one of the many engineering student deisng team at UBC. Feel free to click the link to know more about our team.
+My teammates, [Daniel](https://danielzn.com/) and I designed, built, and tested radio PCBs for one of the rockets at [UBC Rocket](https://www.ubcrocket.com), one of the many engineering student deisng team at UBC. Feel free to click the link to know more about our team.
 
 We made this design using Autodesk Eagle. This was my first time making PCB, so the design is quite simple with only two layers. I will switch to using Atlium desinger for future PCBs project because I see many employers prefer that instead of Autodesk Eagle. 
 

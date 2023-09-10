@@ -1,5 +1,5 @@
 ---
-title: "Reflow Oven Controller"
+title: "Magnetic field controlled robot"
 date: 2023-05-16
 hero: images/robot.jpg
 # description: 
