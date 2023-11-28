@@ -13,7 +13,7 @@ tags: ["Academic", "Elec 291", "Robot"]
 author: 
   name: Marcus
 ---
-Our team designed and I built a remote controlled autonomous robot controlled via varing magnetic field. The varing magnetic field source is from a remote that we also built. The code and all the parts we used can be found via this [link to github](https://github.com/Beluguy/Elec-291/tree/main/Magnetic-Field-Controlled-Robot).
+Our team and I designed and built a remote controlled autonomous robot controlled via varing magnetic field. The varing magnetic field source is from a remote that we also built. The code and all the parts we used can be found via this [link to github](https://github.com/Beluguy/Elec-291/tree/main/Magnetic-Field-Controlled-Robot).
 
 Here is a picture of the robot:
 ![robot](images/robot.jpg)
