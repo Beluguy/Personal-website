@@ -50,5 +50,5 @@ My Website do not ask for any personal information in any form whatsoever. Howev
 
 There are no advertisment on this website. I do not and will not incorporate advertisment on personal website in any shape or form. I hate them as much as you do! I value your experience much more than money:)
 
-## Contact Us
+## Contact me
 If you have any questions about this Disclaimer, You can contact me at disclaimer@marcusc.me .
