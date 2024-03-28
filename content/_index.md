@@ -9,4 +9,4 @@ Click [here][4] to learn more about me!
 [1]: https://www.ubc.ca/
 [2]: https://tenstorrent.com/
 [3]: https://www.ubcrocket.com/
-[4]: /pages/about
+[4]: /about
