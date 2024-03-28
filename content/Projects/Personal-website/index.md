@@ -26,7 +26,6 @@ This is the website you are on right now! It is my first website and I made it w
 
 The orginal theme I used was the [Toha](https://github.com/hugo-toha/toha) theme by [Emruz Hossain](https://github.com/hossainemruz). I switched to the Blowfish theme because I think it is more elgant, and the Toha theme wasn't actively maintain for more than a year (but the project is now active as of March 24th, 2024). However, I still want to give a shout out to them because it is also a nice looking theme!
 
-
 ## Why did I make my own website?
 I recently got restricted on [LinkedIn](https://www.linkedin.com/in/techno-marcus), and I thought to myself: how dare they do that to me! That is basically the motivation behind making my own website. I want to make my own "platform" that I nobody would ban me because I am the one in control (I know I sounded a bit like Elon Musk, but I made my website before he bought Twitter). I also think of it as my alternative presence on the public internet just in case anything happened (\*knock on wood*). 
 
