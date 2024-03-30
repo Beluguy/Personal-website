@@ -20,4 +20,6 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
 
-Projects are like side quests for me to collect all the experience and knowledge that I need to ~~beat the game~~ acheive something bigger.
+Projects are like side quests for me to collect all the experience and knowledge that I need to ~~beat the game~~ acheive something bigger. 
+
+If you think I made a mistake anywhere or just want to connect, please contact me via [email](mailto:hello@marcusc.me) or [LinkedIn](https://www.linkedin.com/in/techno-marcus).

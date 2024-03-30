@@ -22,6 +22,8 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
 
+**First, if you think I made a mistake anywhere, please contact me via [email](mailto:hello@marcusc.me) or [LinkedIn](https://www.linkedin.com/in/techno-marcus). Thanks!** 
+
 ## Introduction
 I hacked an existing PCB from an electric bug racket and developed an algorithm for an Arduino nano to measure the amount of bugs zapped to be recorded. The motivation behind this project is to “improve” my bug racket by added a fun little feature. I also want to apply some of the electrical engineering skills I learned in school.
 
@@ -58,7 +60,7 @@ Continuing to the right side of the transformer, this high voltage side is for d
 
 Keep in mind that the voltage across R3 and C3 doesn’t become 2V in just one or two cycles, it takes many more for all the capacitors to charged up and have their effects. Therefore, it is a simplify explanation
 
-Also, if you think I made a mistake somewhere in my circuit analysis, feel free to contact me via [email](mailto:hello@marcusc.me) or [LinkedIn](https://www.linkedin.com/in/techno-marcus). 
+**Also, if you think I made a mistake somewhere in my circuit analysis, please contact me via [email](mailto:hello@marcusc.me) or [LinkedIn](https://www.linkedin.com/in/techno-marcus). Thanks!**
 
 
 This is my first prototype with Raspberry Pi nano.
