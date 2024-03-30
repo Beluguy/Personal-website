@@ -75,6 +75,8 @@ This is included in the MCU & voltage sense circuit
 ![Full schematic](images/sys-sch.png)
 ![PCB layout](images/pcb-layout.png)
 
+## Fresh from JLCPCB!
+![Fresh PCB](featured.jpg)
 
 [1]: https://www.electronics-lab.com/project/getting-started-with-the-new-attiny-chips-programming-the-microchips-0-series-and-1-series-attiny-with-the-arduino-ide
 
