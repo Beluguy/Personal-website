@@ -49,5 +49,3 @@ Assembling the drone:\
 
 I am finally done! This took me at least 8 hours to complete.\
 ![Done](featured.jpg)
-
-

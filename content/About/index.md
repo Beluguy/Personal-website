@@ -47,6 +47,17 @@ disableImageZoom: true
 
 ***
 
+## Skills
+
+### Hardware
+- Circuit Design & Analysis, PCB Design & Validation, Oscilloscope, Signal Generator, Multimeter, PC assembly and troubleshooting, SMT and THT Soldering
+
+### Software
+- Ansys HFSS, Altium Designer, Cadence Allegro Package Designer, LTspice, Markdown, GitHub & Git
+
+
+***
+
 ## Licenses & certifications
 
 ### [Amateur (HAM) Radio Operator Certificate (Basic with Honours)](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/amateur-radio-service/amateur-certification-fact-sheet)

@@ -15,7 +15,7 @@ enableCodeCopy = true
 mainSections = ["projects", "posts"]
 # robots = ""
 
-disableImageOptimization = false
+disableImageOptimization = true
 disableTextInHeader = false
 
 defaultBackgroundImage = "background.jpg" # used as default for background images 

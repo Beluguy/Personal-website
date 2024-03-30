@@ -42,7 +42,7 @@ As mentioned in my last [project](/projects/radio-pcb) at my time at UBC Rocket,
 |:--------------:|:-----------:|:---------:|:----------:|
 |       GND      |     OPEN    |    GND    |     GND    |
 
-![](images/e-fuse-sch.png)
+![efuse schematic](images/e-fuse-sch.png)
 
 ### ~~Current sense circuit:~~ 
 This is included in the over-current detection circuit.
@@ -72,8 +72,8 @@ This is included in the MCU & voltage sense circuit
 
 ## Finished PCB schematic & layout
 
-![](images/sys-sch.png)
-![](images/pcb-layout.png)
+![Full schematic](images/sys-sch.png)
+![PCB layout](images/pcb-layout.png)
 
 
 [1]: https://www.electronics-lab.com/project/getting-started-with-the-new-attiny-chips-programming-the-microchips-0-series-and-1-series-attiny-with-the-arduino-ide
