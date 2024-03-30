@@ -20,7 +20,7 @@ showViews: false
 showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
-## Introdcution
+## Introduction
 
 My teammate, [Andi](https://www.linkedin.com/in/andili/) and I designed and currently validating our team's first battery management system. We called our system battery happy system because our first generation board doesn't support offically charging (safely). It only keep our battery happy by monitoring and cutting power for scenario of overcurrent/short circuit and undervoltage/over discharged.
 
