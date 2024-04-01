@@ -4,7 +4,7 @@ Currently, I am working at [Tenstorrent][2] as a package engineering intern with
 
 Aside from school, I am passionate about IT, electronics, and space! I like to keep up with the latest tech news, tinker with electronics, play table tennis, watch sci-fi movies, and fly FPV drones.
 
-Click [here][4] to learn more about me!
+Go to the [about][4] page to learn more about me!
 
 [1]: https://www.ubc.ca/
 [2]: https://tenstorrent.com/
