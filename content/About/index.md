@@ -53,7 +53,7 @@ disableImageZoom: true
 - Circuit Design & Analysis, PCB Design & Validation, Oscilloscope, Signal Generator, Multimeter, PC assembly and troubleshooting, SMT and THT Soldering
 
 ### Software
-- Ansys HFSS, Altium Designer, Cadence Allegro Package Designer, LTspice, Markdown, GitHub & Git
+- Ansys HFSS, Altium Designer, Cadence Allegro Package Designer, LTspice, Markdown, Python, GitHub & Git
 
 
 ***
@@ -78,6 +78,12 @@ Transport Canada • Jun 2021
 ***
 
 ## Honours & awards
+
+### Francis Alexander Memorial Scholarship
+The University of British Columbia • Apr 2024
+
+- This scholarship has been endowed in memory of Francis Alexander for a student entering third year Engineering. It is made on the recommendation of the Faculty who considered the candidate's interest in student and professional affairs as well as scholastic standing.
+
 ### Dean’s Honour List
 The University of British Columbia • May 2023
 
@@ -87,3 +93,9 @@ The University of British Columbia • May 2023
 BC Ministry of Education • Oct 2021
 
 - This scholarship recognizes the 8,000 high school graduates with the top academic achievement in the province.
+
+### District/Authority Scholarship
+BC Ministry of Education • Sep 2021
+
+- This is awarded to 5,500 high school graduates who have demonstrated excellence in their chosen area (Technology for me).
+
