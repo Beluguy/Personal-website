@@ -82,7 +82,7 @@ Transport Canada • Jun 2021
 ### Francis Alexander Memorial Scholarship
 The University of British Columbia • Apr 2024
 
-- This scholarship has been endowed in memory of Francis Alexander for a student entering third year Engineering. It is made on the recommendation of the Faculty who considered the candidate's interest in student and professional affairs as well as scholastic standing.
+- This scholarship has been endowed in memory of Francis Alexander for students entering third year Engineering. It is made on the recommendation of the Faculty who considered the candidate's interest in student and professional affairs as well as scholastic standing.
 
 ### Dean’s Honour List
 The University of British Columbia • May 2023
