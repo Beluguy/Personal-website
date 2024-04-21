@@ -28,6 +28,9 @@ The following definitions shall have the same meaning regardless of whether they
 - "Website" refers to this website, accessible from https://marcusc.me.
 - "You" or "visitor" refers to the individual accessing the Website, or the company, or other legal entity on behalf of which such individual is accessing or using the Website, as applicable.
 
+## AI Usage Disclaimer
+Everything on this website is written/produced by me (a human), except where explicitly stated otherwise.
+
 ## External Links Disclaimer
 My Website contains links to external websites that are not provided or maintained by or in any way affiliated with me. Therefore, please note that I cannot guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
 
