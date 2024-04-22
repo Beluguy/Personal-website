@@ -29,7 +29,7 @@ The following definitions shall have the same meaning regardless of whether they
 - "You" or "visitor" refers to the individual accessing the Website, or the company, or other legal entity on behalf of which such individual is accessing or using the Website, as applicable.
 
 ## AI Usage Disclaimer
-Everything on this website is written/produced by me (a human), except where explicitly stated otherwise.
+Everything on this Website is written/produced by me (a human), except where explicitly stated otherwise.
 
 ## External Links Disclaimer
 My Website contains links to external websites that are not provided or maintained by or in any way affiliated with me. Therefore, please note that I cannot guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
@@ -48,11 +48,11 @@ Although I try my best to make sure the information on my Website is up-to-date 
 I will not be liable to You or anyone else for any decision made or action taken in reliance on the information given on my Website or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
 ## Privacy Disclaimer
-By using my website, you hereby consent to my Privacy Policy and agree to its terms.
+By using my Website, you hereby consent to my Privacy Policy and agree to its terms.
 
 My Website do not ask for any personal information in any form whatsoever. However, if you contact me directly, I may receive additional information about you such as your name, email address, and any other information you may choose to provide.
 
-There are no advertisement on this website. I do not and will not incorporate advertisement on my personal website in any shape or form. I hate them as much as you do! I value your experience much more than money:)
+There are no advertisement on this Website. I do not and will not incorporate advertisement on my personal Website in any shape or form. I hate them as much as you do! I value your experience much more than money:)
 
 ## Contact me
 If you have any questions about this Disclaimer, You can contact me at disclaimer@marcusc.me.
