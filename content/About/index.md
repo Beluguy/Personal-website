@@ -27,6 +27,7 @@ disableImageZoom: true
 ### Package Engineering Intern (SI/PI) 
 [Tenstorrent](https://tenstorrent.com/) • Toronto, Canada • Jan 2024 - Present
 
+- Performed die-to-die interconnect layout for advance and standard packages using Cadence Allegro Package Designer, considering SI/PI constraints such as trace overlap and length matching
 - Completed a feasibility study using Ansys HFSS for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps for variables such as signal to ground ratio, RX/TX termination, channel length, data rate, and eye height & width
 
 ### Avionics Engineer 
