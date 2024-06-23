@@ -66,7 +66,7 @@ This is included in the MCU & voltage sense circuit
 
 ### MCU:
 - The VCC input of the ATTINY404 microcontroller would be connected to the VOUT of the voltage regulator.
-- [Programmable](1) it via [UPDI](2)
+- [Programmable](https://www.electronics-lab.com/project/getting-started-with-the-new-attiny-chips-programming-the-microchips-0-series-and-1-series-attiny-with-the-arduino-ide) it via [UPDI](https://daumemo.com/diy-updi-usb-programmer-which-can-be-made-with-cheap-hardware)
 
 
 
@@ -77,7 +77,3 @@ This is included in the MCU & voltage sense circuit
 
 ## Fresh from JLCPCB!
 ![Fresh PCB](featured.jpg)
-
-[1]: https://www.electronics-lab.com/project/getting-started-with-the-new-attiny-chips-programming-the-microchips-0-series-and-1-series-attiny-with-the-arduino-ide
-
-[2]: https://daumemo.com/diy-updi-usb-programmer-which-can-be-made-with-cheap-hardware
