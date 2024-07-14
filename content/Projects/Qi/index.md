@@ -7,7 +7,6 @@ tags: ["hobby", "Qi", "wireless charger", "PCB", "magnetic induction", "Altium D
 
 showDate : true
 showDateOnlyInArticle : false
-draft: true
 showDateUpdated : true
 showHeadingAnchors : false
 showPagination : false
