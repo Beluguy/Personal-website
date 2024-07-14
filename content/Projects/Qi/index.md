@@ -31,12 +31,15 @@ Wireless charging simply refers to the transfer of energy without the need of a 
 Since most smartphones and smartwatches made in recent years can charge via magetic induction, there should be plenty of resources for us to learn from. So, we decided to look at magnetic induction. 
 
 ## What is magnetic induction?
-Magnetic induction wirelessly transfer energy between the charger/transmitter (TX) coil and load/receiver (RX) coil via a time varying magnetic field. When the magnetic field is captured by the RX coil, it induces a voltage across the termainals of RX coil, as shown in the figures below. 
+Magnetic induction wirelessly transfer energy between the charger/transmitter (TX) coil and load/receiver (RX) coil via a time varying magnetic field. When the magnetic field is captured by the RX coil, it induces a voltage across the termainals of RX coil in accordance with Faraday's law, as shown below. 
+
+Faraday's law: {{<katex>}}\\({\displaystyle{\mathcal{E}}}=-N\frac{dΦ}{dt}\\) where {{<katex>}}\\(N\\) = # of turns of the coil; {{<katex>}}\\(Φ\\) = magnetic flux; {{<katex>}}\\(t\\) = time
+
 ![](images/how-it-works.png "Credit: [Thomson Reuters](https://blogs.thomsonreuters.com/answerson/wp-content/uploads/sites/3/2016/06/pdfnews-e1410790372461.jpg)")
 
 However, this system is not inherently safe due to an effect called parasitic heating. Parasitic heating happens when any metal object comes near the TX coil while it is transmitting. The object can rapidly heats up due to the induced eddy current inside the object from the time varying magnetic field. 
 
-To mitigate this, we need some kind of foreign obejct detection (FOD). That brings us to the Qi protocol. 
+To mitigate this, we need some kind of foreign obejct detection (FOD) system. That brings us to the Qi protocol. 
 
 
 ## What is the Qi protocol?
