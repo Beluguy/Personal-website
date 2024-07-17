@@ -37,7 +37,7 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 ## Experience
 
-### Package Engineering Intern (SI/PI) 
+### Package Layout Design Intern
 [Tenstorrent](https://tenstorrent.com/) • Toronto, Canada • Jan 2024 - Present
 
 - Performed die-to-die interconnect layout for advance and standard packages using Cadence Allegro X Advanced Package Designer, considering SI/PI constraints such as trace overlap and length matching
