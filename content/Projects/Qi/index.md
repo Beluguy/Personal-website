@@ -1,7 +1,7 @@
 ---
 title: "Qi compatible wireless charger"
 date: 2024-07-14
-
+lastmod: 2024-07-18
 # Description: 
 tags: ["hobby", "Qi", "wireless charger", "PCB", "magnetic induction", "Altium Designer"]
 
@@ -28,7 +28,7 @@ layoutBackgroundHeaderSpace: false
 ## What is wireless charging?
 Wireless charging simply refers to the transfer of energy without the need of a physical connection between the charger and the load. There are various ways a charger can transmit energy wirelessly. For example, via [ultrasound](https://phys.org/news/2024-05-ultrasound-wireless-implantable-biomedical-devices.html), via [radio frequency (RF)](https://airfuel.org/airfuel-rf/), and via [magnetic induction](https://www.wirelesspowerconsortium.com/standards/qi-wireless-charging/).
 
-Since most smartphones and smartwatches made in recent years can charge via magetic induction, there should be plenty of resources for us to learn from. So, we decided to look at magnetic induction. 
+Since Youssef and I wanted to deepen our understanding of electrical engineering, we prefer to go with RF or mangnetic induction. Comparing the two options, we found that most mobile devices like smartphones and smartwatches made in recent years can charge via magetic induction, there should be plenty of resources for us to learn from. So, we decided to look at magnetic induction. 
 
 ## What is magnetic induction?
 Magnetic induction wirelessly transfer energy between the charger/transmitter (TX) coil and load/receiver (RX) coil via a time varying magnetic field. When the magnetic field is captured by the RX coil, it induces a voltage across the termainals of RX coil in accordance with Faraday's law, as shown below. 
@@ -43,7 +43,9 @@ To mitigate this, we need some kind of foreign obejct detection (FOD) system. Th
 
 
 ## What is the Qi protocol?
-Qi (pronounced “chee”) is created by the [Wireless Power Consortium (WPC)](https://www.wirelesspowerconsortium.com). It is the most popular of the wireless charging standards among mobile devices. 
+Qi (pronounced “chee”) is created by the [Wireless Power Consortium (WPC)](https://www.wirelesspowerconsortium.com), which is a group of companies that promote and develop standards for wireless power transmission. It is comprised of over 300 member companies from across the world such as Apple, Sony, Samsung, and Microsoft. 
+
+Qi is argueably the most widely adopted standards within the consumer electronics market, especially for charging smartphones and wearables. The Qi standard ensures interoperability and security between Qi-enabled devices, allowing them to charge using any wireless chargers that are Qi compatible or certified (for Qi v2).
 
 The Qi protool has a foreign object detection (FOD) that 
 
