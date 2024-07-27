@@ -1,4 +1,4 @@
-Welcome! I'm glad that you stopped by. I am a third year electrical engineering student at [The University of British Columbia][1] (UBC) who is looking for an electronics design internship for summer 2025.
+Welcome! I'm glad that you stopped by. I am a third year electrical engineering student at [The University of British Columbia][1] (UBC) who is looking for an electronics related internship for summer 2025.
 
 Currently, I am working at [Tenstorrent][2] as a package layout design intern. I am also part of [UBC Rocket][3] (one of UBC's engineering design teams) as an avionics engineer. 
 

@@ -40,8 +40,11 @@ I find myself already pretty good at computer stuff, but I never really understa
 ### Package Layout Design Intern
 [Tenstorrent](https://tenstorrent.com/) • Toronto, Canada • Jan 2024 - Present
 
-- Performed die-to-die interconnect layout for advance and standard packages using Cadence Allegro X Advanced Package Designer, considering SI/PI constraints such as trace overlap and length matching
-- Completed a feasibility study using Ansys HFSS for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps for variables such as signal to ground ratio, RX/TX termination, channel length, data rate, and eye height & width
+- Designed die-to-die interconnect and PDN layout for advanced and standard packages using Cadence Allegro Advanced Package Designer (APD), by considering SI/PI constraints and design rules such as trace-to-trace overlap, length matching, and maximum allowed via stack.
+
+- Attentively investigated the effect of variables such as signal to ground ratio, RX/TX termination, channel length, and data rate, on eye height & width for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps using Ansys electronics desktop (AEDT) HFSS.
+
+- Thoroughly documented lessons learned, tips and tricks when using APD and AEDT, and the many variations of die-to-die interconnect and PDN layout.
 
 ### Avionics Engineer 
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, Canada • Sep 2022 - Present
