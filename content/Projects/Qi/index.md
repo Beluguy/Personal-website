@@ -1,5 +1,5 @@
 ---
-title: "Qi compatible wireless charger"
+title: "Qi compatible wireless charger (WIP)"
 date: 2024-07-14
 lastmod: 2024-07-26
 # Description: 
