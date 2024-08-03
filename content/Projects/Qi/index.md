@@ -68,10 +68,15 @@ Since we don't plan to do any expensive compliance testing, we will make sure ou
 ## How does the Qi (v1.3) protocol works?
 Although the latest Qi protocol is at v2.0 (as of the July, 2024), we are going to explain the high level overview of the charging procoess of version 1.3 because that is the latest specification available to non WPC members. Below is a high level overview of the charging procoess. Noted that the Negotiation phase is not present in the Baseline Protocol. 
 
-####
+#### 1. Ping Phase
+When TX is idling, it is in the Ping Phase, the TX tries to establish communications with a RX. Before doing so, it typically performs measurements to determine if there are objects such as bankcards, coins
+or other metals, which can damage or heat up during the power transfer. These measurements proceed
+without waking up the Power Receiver.
+
+#### 2. Configuration Phase
 
 
-####
+#### 3. Negotiation Phase 
 
 
-####
+#### 4. Power Transfer Phase

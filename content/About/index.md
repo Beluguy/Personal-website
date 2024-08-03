@@ -37,28 +37,31 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 ## Experience
 
+### Avionics Engineer 
+[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2022 - Present
+
+- Designed and validated the [radio communication PCB](/projects/Radio-PCB) for North American’s first successful student made 2 stage rocket, which won first place in the advanced category at the Launch Canada 2023 Rocketry Competition
+
+- Currently validating our new [Battery board](/projects/bhs) for our avionics system
+
 ### Package Layout Design Intern
-[Tenstorrent](https://tenstorrent.com/) • Toronto, Canada • Jan 2024 - Present
+[Tenstorrent](https://tenstorrent.com/) • Toronto, Ontario, Canada • Jan 2024 - Aug 2024
 
 - Designed die-to-die interconnect and PDN layout for advanced and standard packages using Cadence Allegro Advanced Package Designer (APD), by considering SI/PI constraints and design rules such as trace-to-trace overlap, length matching, and maximum allowed via stack.
 
-- Attentively investigated the effect of variables such as signal to ground ratio, RX/TX termination, channel length, and data rate, on eye height & width for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps using Ansys electronics desktop (AEDT) HFSS.
+- Investigated the effect of variables such as signal to ground ratio, RX/TX termination, channel length, and data rate, on eye height & width for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps using Ansys electronics desktop (AEDT) HFSS.
 
-- Thoroughly documented lessons learned, tips and tricks when using APD and AEDT, and the many variations of die-to-die interconnect and PDN layout.
+- Documented lessons learned, tips and tricks for APD and AEDT, and the many variations of die-to-die interconnect and PDN layouts.
 
-### Avionics Engineer 
-[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, Canada • Sep 2022 - Present
-
-- Designed and validated the [radio communication PCB](/projects/Radio-PCB) for North American’s first successful student made 2 stage rocket, which won first place in the advanced category at the Launch Canada 2023 Rocketry Competition
-- Currently validating our new [Battery board](/projects/bhs) for our avionics system
-
+<!--
 ### Vice President Hardware Engineering
-[Edge-0304](https://edge0304.com/) • Vancouver, Canada • Aug 2023 - Present
+[Edge-0304](https://edge0304.com/) • Vancouver, British Columbia, Canada • Aug 2023 - Present
 
 - Currently leading a team of hardware engineers (students) to work on smart home related solutions, such as smart bug racket, smart switch, and smart mirror (future project)
+-->
 
 ### Teaching Assistant
-[UBC CPEN 211 - Introduction to Microcomputers](https://ece.ubc.ca/courses/cpen-211/) • Vancouver, Canada • Sep 2023 - Dec 2023
+[UBC CPEN 211 - Introduction to Microcomputers](https://ece.ubc.ca/courses/cpen-211/) • Vancouver, British Columbia, Canada • Sep 2023 - Dec 2023
 
 - Supervised laboratory sessions and hosted office hours to help student learn the basics of digital systems and microcomputers including breadboard circuit design, combinational and sequential circuits, SystemVerilog, Intel Quartus Prime and ModelSim-Intel
 
@@ -70,8 +73,7 @@ I find myself already pretty good at computer stuff, but I never really understa
 - Circuit Design & Analysis, PCB Design & Validation, Oscilloscope, Signal Generator, Multimeter, PC assembly and troubleshooting, SMT and THT Soldering
 
 ### Software
-- Ansys HFSS, Altium Designer, Cadence Allegro Package Designer, LTspice, Markdown, Python, GitHub & Git
-
+- Ansys HFSS, Altium Designer, Cadence Allegro Package Designer, LTspice, Markdown, GitHub & Git
 
 ***
 
@@ -115,4 +117,3 @@ BC Ministry of Education • Oct 2021
 BC Ministry of Education • Sep 2021
 
 - This is awarded to 5,500 high school graduates who have demonstrated excellence in their chosen area (Technology for me).
-
