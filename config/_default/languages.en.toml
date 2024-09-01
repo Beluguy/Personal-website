@@ -13,7 +13,7 @@ title = "Marcus Cheng"
   description = "Marcus' Personal Website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
- [author]
+ [params.author]
    name = "Marcus Cheng"
    image = "Marcus.jpg"
    headline = "There is no fate but what we make"
