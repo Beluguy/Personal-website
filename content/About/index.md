@@ -37,8 +37,8 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 ## Experience
 
-### Avionics Engineer 
-[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2022 - Present
+### COTS Avionics Hardware Team Lead
+[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Present
 
 - Designed and validated the [radio communication PCB](/projects/Radio-PCB) for North American’s first successful student made 2 stage rocket, which won first place in the advanced category at the Launch Canada 2023 Rocketry Competition
 
