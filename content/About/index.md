@@ -47,7 +47,7 @@ I find myself already pretty good at computer stuff, but I never really understa
 ### Package Layout Design Intern
 [Tenstorrent](https://tenstorrent.com/) • Toronto, Ontario, Canada • Jan 2024 - Aug 2024
 
-- Designed die-to-die interconnect and PDN layout for advanced and standard packages using Cadence Allegro Advanced Package Designer (APD), by considering SI/PI constraints and design rules such as trace-to-trace overlap, length matching, and maximum allowed via stack.
+- Designed die-to-die interconnect and PDN layouts for advanced and standard packages using Cadence Allegro Advanced Package Designer (APD), by considering SI/PI constraints and design rules such as trace-to-trace overlap, length matching, and maximum allowed via stack.
 
 - Investigated the effect of variables such as signal to ground ratio, RX/TX termination, channel length, and data rate, on eye height & width for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps using Ansys electronics desktop (AEDT) HFSS.
 
