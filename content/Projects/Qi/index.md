@@ -62,16 +62,14 @@ As mentioned in the [What is magnetic induction](#what-is-magnetic-induction) se
 
 However, the specification does not define a single method for foreign object detection (FOD) that a TX has to apply. Instead, compliance testing verifies that a TX does not heat up a set of reference foreign objects in a set of reference scenarios. 
 
-Since we don't plan to do any expensive compliance testing, we will make sure our charger does not overheats by using sensors to monitor its temperature and stop transmitting when it reaches a threshold. In addition to that, we will have a FOD that also stop the tranmission when a foreign object is detected.
+Since we don't plan to do any expensive compliance testing, we will make sure our charger does not overheat by using sensors to monitor its temperature and stop transmitting when it reaches a threshold. In addition to that, we will have a FOD that also stop the tranmission when a foreign object is detected.
 
 
 ## How does the Qi (v1.3) protocol works?
 Although the latest Qi protocol is at v2.0 (as of the July, 2024), we are going to explain the high level overview of the charging procoess of version 1.3 because that is the latest specification available to non WPC members. Below is a high level overview of the charging procoess. Noted that the Negotiation phase is not present in the Baseline Protocol. 
 
 #### 1. Ping Phase
-When TX is idling, it is in the Ping Phase, the TX tries to establish communications with a RX. Before doing so, it typically performs measurements to determine if there are objects such as bankcards, coins
-or other metals, which can damage or heat up during the power transfer. These measurements proceed
-without waking up the Power Receiver.
+When TX is idling, it is in the Ping Phase, the TX tries to establish communications with a RX. Before doing so, it typically performs measurements to determine if there are objects such as bankcards, coins or other metals, which can damage or heat up during the power transfer. These measurements proceed without waking up the Power Receiver.
 
 #### 2. Configuration Phase
 
