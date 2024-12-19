@@ -23,7 +23,7 @@ disableImageZoom: true
 ---
 
 ## TL;DR
-Since I was small, I have always wondered the meaning of our existence and how did we get here… I believe advancing our technology would be our best shot at finding answers or even ask better questions. Then, I think technology itself is a gigantic field, so I should find something to focus on first. 
+Since I was small, I have always wondered the meaning of our existence and how did we got here… I believe advancing our technology would be our best shot at finding answers or even ask better questions. Then, I think technology itself is a gigantic field, so I should find something to focus on first. 
 
 I find myself already pretty good at computer stuff, but I never really understand what make them work at a fundamental level. So I decided to find out! Yeah, that's the story. Still learning how computer and electronics really work!
 
