@@ -48,7 +48,7 @@ Although I try my best to make sure the information on my Website is up-to-date 
 I will not be liable to You or anyone else for any decision made or action taken in reliance on the information given on my Website or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
 ## Privacy Disclaimer
-By using my Website, you hereby consent to my Privacy Policy and agree to its terms.
+By using my Website, you hereby consent to my the following policy and agree to its terms.
 
 My Website do not ask for any personal information in any form whatsoever. However, if you contact me directly, I may receive additional information about you such as your name, email address, and any other information you may choose to provide.
 
