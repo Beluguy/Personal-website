@@ -16,6 +16,7 @@ title = "Marcus Cheng"
  [params.author]
    name = "Marcus Cheng"
    image = "Marcus.jpg"
+   params.author.imageQuality	= 100
    headline = "There is no fate but what we make"
    # bio = ""
    links = [
