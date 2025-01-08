@@ -37,7 +37,7 @@ Our team designed and built a remote controlled autonomous robot controlled via 
 ## What I did
 I was primarily responsible for the hardware of the robot. Therefore, I will talk mostly about the hardware.  
 
-The hardware of the robot consists of two main parts, the receiver, and the microcontroller system. For the microcontroller system, we used the STM32L051 from STMicroelectronics. We picked this microcontroller out of the six available ones because when compared to the available ones, it has excellent documentation, it is fast, it has a lot of timers and generous amount of memory. Overall, we think the STM32L051 is an all-rounder and should be able to handle the all the tasks an additional feature we throw at it. 
+The hardware of the robot consists of two main parts, the receiver, and the microcontroller system. For the microcontroller system, we used the STM32L051 from STMicroelectronics. We picked this microcontroller out of the six available ones because when compared to the available ones, it has excellent documentation, it is faster than we need, it has a lot of timers and generous amount of memory. Overall, we think the STM32L051 is an all-rounder and should be able to handle the all the tasks an additional feature we throw at it. 
 
 Since the STM32L051 uses 3.3V for its power input, we need to use an additional 3.3V voltage regulator in addition to the 5V regulator which the rest of the system need. This means the voltage regulator would take up extra spaces and potentially generate more mess, so this is one of the downsides compare to other microcontrollers which uses 5V instead. However, we thought that this trade-off is worth it because of the superior specifications.
 

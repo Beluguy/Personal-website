@@ -49,7 +49,7 @@ There are two options for picking the hardware of the server, I can either buy a
 - Motherboard: ASRock Z690 Pro RS
     <details>
     <summary>Why?</summary>
-    Cheapest one that support DDR4, LGA1700, enough SATA ports (I know I can add more with an HBA, but I that is another rabbit that I would need to dive into before needing to pick one, so I didn't bother). Also, I heard some people on the internet who has this board has no major problme with it, including getting the system to C10! Unfortunately, I couldn't find the link to that when I am writing this. But you can trust me because I can get the system to regularly idle at C10. Which I have a picture below for that. 
+    Cheapest one that support DDR4, LGA1700, enough SATA ports (I know I can add more with a HBA, but I that is another rabbit that I would need to dive into before needing to pick one, so I didn't bother). Also, I heard some people on the internet who has this board has no major problme with it, including getting the system to C10! Unfortunately, I couldn't find the link to that when I am writing this. But you can trust me because I can get the system to regularly idle at C10. Which I have a picture below for that. 
     </details>
 - HDD for ZFS pool: 4xWD Red Pro 8TB
     <details>
