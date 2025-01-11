@@ -47,12 +47,12 @@ To mitigate this, we need some kind of foreign object detection (FOD) system. Th
 ## What is the Qi protocol?
 Qi (pronounced “chee”) is created by the [Wireless Power Consortium (WPC)](https://www.wirelesspowerconsortium.com), which is a group of companies that promote and develop standards for wireless power transmission. It consists of over 300 companies around the world such as Apple, Sony, Samsung, and Microsoft. 
 
-Qi is argueably the most widely adopted standards within the consumer electronics market, especially for charging smartphones and wearables. The Qi standard has ensures interoperability and security between Qi-enabled devices, allowing them to charge using any wireless chargers that are Qi compatible and/or certified (for Qi v2).
+Qi is arguably the most widely adopted standards within the consumer electronics market, especially for charging smartphones and wearables. The Qi standard has ensures interoperability and security between Qi-enabled devices, allowing them to charge using any wireless chargers that are Qi compatible and/or certified (for Qi v2).
 
 Qi has many features, below are some of the more important ones (in my opinion).
 
 #### Power levels & Compatibility
-A Qi TX is capcable of transfering at least 5 W of power and up to the architectural limit of about 30 W. However, the actual amount of power transferred is subject to negotiation between the RX and TX. This communication assures interoperability between Qi wireless products
+A Qi TX is capable of transferring at least 5 W of power and up to the architectural limit of about 30 W. However, the actual amount of power transferred is subject to negotiation between the RX and TX. This communication assures interoperability between Qi wireless products
 in the Baseline Power Profile (BPP), which is less than or equal to 5 W, and in the Extended Power Profile (EPP), which is up to 15 W.
 
 For example, if a RX is designed to be charged by a 15 W TX but is placed on a 5 W TX, the RX may allow charging at a slower rate. Conversely, if a 5 W RX is placed on a 15 W TX, the RX will tell the TX to send no more than 5 W of power.
