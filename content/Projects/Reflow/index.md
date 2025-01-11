@@ -21,7 +21,7 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
 ## Introduction
-My teammates and I designed and built a reflow oven controller that controls the temperature of an oven via a pulse width modulation (PWM)  signal to a solid-state relay (SSR) box. The reflow parameters such as reflow temperature, reflow time and cool down temperature can be adjusted. The parts we used can be found via this [link to GitHub](https://github.com/Beluguy/Elec-291/blob/main/reflow-oven-controller).
+My teammates and I designed and built a reflow oven controller that controls the temperature of an oven via a pulse width modulation (PWM) signal to a solid-state relay (SSR) box. The reflow parameters such as reflow temperature, reflow time and cool down temperature can be adjusted. The parts we used can be found via this [link to GitHub](https://github.com/Beluguy/Elec-291/blob/main/reflow-oven-controller).
 
 ## Top view of reflow oven controller
 ![controller](featured.jpg)

@@ -22,7 +22,7 @@ layoutBackgroundHeaderSpace: false
 ---
 ## Introduction
 
-My teammate, [Andi](https://www.linkedin.com/in/andili/) and I designed and currently validating our team's first battery management system. We called our system battery happy system because our first generation board doesn't support offically charging (safely). It only keep our battery happy by monitoring and cutting power for scenario of overcurrent/short circuit and undervoltage/over discharged.
+My teammate, [Andi](https://www.linkedin.com/in/andili/) and I designed and currently validating our team's first battery management system. We called our system battery happy system because our first generation board doesn't support officially charging (safely). It only keeps our battery happy by monitoring and cutting power for scenario of overcurrent/short circuit and undervoltage/over discharged.
 
 As mentioned in my last [project](/projects/radio-pcb) at my time at UBC Rocket, I switched to using Altium designer. I found the transition much less daunting compared to when I was learning how to use Altium designer before I design my first PCB. 
 

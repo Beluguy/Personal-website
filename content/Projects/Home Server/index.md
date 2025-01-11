@@ -22,11 +22,11 @@ layoutBackgroundHeaderSpace: false
 ---
 ## Introduction
 
-I have been wanting to build something like this for a long time, long enough that I don't even remember when I started to want to build something like this. I want to build a home server/lab because I want to learn more about computer networking, linux, and try tools/software like docker, TrueNAS, nextcloud, jellyfin, and nginx proxy manager. As you read along, please be gentle if you want to judge me since this is my first time at homelabbing. 
+I have been wanting to build something like this for a long time, long enough that I don't even remember when I started to want to build something like this. I want to build a home server/lab because I want to learn more about computer networking, Linux, and try tools/software like docker, TrueNAS, Nextcloud, Jellyfin, and nginx proxy manager. As you read along, please be gentle if you want to judge me since this is my first time at homelabbing. 
 
 ## Hardware
 
-There are two options for picking the hardware of the server, I can either buy a pre-built/turnkey solution, or build my own. I decide to go with the second option because I like to customize the parts that go into my server and assembly it myself, and it is cheaper compare to turnkey solutions that has similar specs. Speaking of specs, below are the parts that I used to build my server:
+There are two options for picking the hardware of the server, I can either buy a pre-built/turnkey solution, or build my own. I decide to go with the second option because I like to customize the parts that go into my server and assembly it myself, and it is cheaper compare to turnkey solutions that have similar specs. Speaking of specs, below are the parts that I used to build my server:
 
 - CPU: Intel Core i5-12600k
     <details>
@@ -82,7 +82,7 @@ There are two options for picking the hardware of the server, I can either buy a
 
 The building process is very similar to a regular desktop PC. Below is some pictures I took when I was building it:
 
-I first installed as much as I can on the the motherboard:
+I first installed as much as I can on the motherboard:
 ![](images/mobo.jpg)
 
 Then, I installed the PSU into the case, and put the motherboard in:
@@ -99,15 +99,15 @@ Yes, I don't have a picture with the CPU cooler on it. But trust me, it is insta
 
 ## Software
 
-My initial plan was to install Proxmox VE and install TrueNAS and other apps with docker and/or LXC containers on Proxmox. However, the more I research about having TrueNAS on Proxmox, the more I hesitate. That is because this setup would let TrueNAS not able to monitor all the metrics of the HDDs, thus leading to potental data loss. I know there are probably packages I can install on Proxmox to monitor the health of the HDDs, but the GUI of TrueNAS makes this much easier. 
+My initial plan was to install Proxmox VE and install TrueNAS and other apps with docker and/or LXC containers on Proxmox. However, the more I research about having TrueNAS on Proxmox, the more I hesitate. That is because this setup would let TrueNAS not able to monitor all the metrics of the HDDs, thus leading to potential data loss. I know there are probably packages I can install on Proxmox to monitor the health of the HDDs, but the GUI of TrueNAS makes this much easier. 
 
-Furthermore, iXsystem just released TrueNAS Scale Electric eel recently back when I was setting this up. This version changed the "Apps" backend from Kubernetes to Docker, allows ZFS VDEVs expansion, and many more. But those two features alone are very attractive to me because it would make things easier for me as a beginner because I can just use the GUI instead of CLI of proxmox. 
+Furthermore, iXsystem just released TrueNAS Scale Electric eel recently back when I was setting this up. This version changed the "Apps" backend from Kubernetes to Docker, allows ZFS VDEVs expansion, and many more. But those two features alone are very attractive to me because it would make things easier for me as a beginner because I can just use the GUI instead of CLI of Proxmox. 
 
 So, I installed TrueNAS on my first ever server. The process of setting up TrueNAS including installing the OS and adding a pool is pretty easy because there are plenty of tutorial online. However, the harder part was installing apps because all the old tutorial are outdated since the new backend is using docker. The hardest one was Nextcloud, which took me a few days of trial and error to get a functioning instance. Anyway, I am running the following apps: ![](images/apps.png)
 
-I was planning to explain why I installed each application, but the reasons are pretty much just for fun, learn, and want to control the services that I use (maybe suffering as well). If I have more time, I would definitely spend more time on the server and tinker with it more. But as school start, I need to wrap it up for now. I don't think I mentioned I was do this during the Christmas break between term 1 and 2, and I had basically a week to set all this up. 
+I was planning to explain why I installed each application, but the reasons are pretty much just for fun, learn, and want to control the services that I use (maybe suffering as well). If I have more time, I would definitely spend more time on the server and tinker with it more. But as school start, I need to wrap it up for now. I don't think I mentioned I was setting this up during the Christmas break between term 1 and 2, and I had basically a week to set all this up. 
 
 ## Wrap up
-There was more pain than I expected when I was setting my server up, but that is fine because I like to build up my pain tolerance for the future. If I am to upgrade this setup, I would build/get another server and install proxmox on it. This would seperate the mission critical storage server from my tinker playground. 
+There was more pain than I expected when I was setting my server up, but that is fine because I like to build up my pain tolerance for the future. If I am to upgrade this setup, I would build/get another server and install Proxmox on it. This would separate the mission-critical storage server from my tinker playground. 
 
-Anyway, if you want to contact me regarding this projects, feel free to contact me via [email](mailto:hello@marcusc.me) or [LinkedIn](https://linkedin.com/in/techno-marcus).
+Anyway, if you want to contact me regarding this project, feel free to contact me via [email](mailto:hello@marcusc.me) or [LinkedIn](https://linkedin.com/in/techno-marcus).
