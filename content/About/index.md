@@ -37,12 +37,19 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 ## Experience
 
-### COTS Avionics Hardware Team Lead
+### COTS Avionics Hardware Lead
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Present
+
+- Leading a team of 10 to build the avionics hardware for our next generation of rocket, named Sunburst 
+
+- Prototyping and designing the second generation of the radio/live telemetry system for our avionics system
+
+### COTS Avionics Hardware Designer
+[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2022 - Aug 2024
 
 - Designed and validated the [radio communication PCB](/projects/Radio-PCB) for North American’s first successful student made 2 stage rocket, which won first place in the advanced category at the Launch Canada 2023 Rocketry Competition
 
-- Currently validating our new [Battery board](/projects/bhs) for our avionics system
+- Developed the first generation of [BMS](/projects/bhs) for our avionics system
 
 ### Package Layout Design Intern
 [Tenstorrent](https://tenstorrent.com/) • Toronto, Ontario, Canada • Jan 2024 - Aug 2024
