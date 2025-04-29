@@ -4,6 +4,7 @@ date: 2024-07-14
 lastmod: 2024-07-26
 # Description: 
 tags: ["hobby", "Qi", "wireless charger", "PCB", "magnetic induction", "Altium Designer"]
+draft: true
 
 showDate : true
 showDateOnlyInArticle : false
