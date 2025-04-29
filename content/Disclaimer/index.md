@@ -48,11 +48,11 @@ Although I try my best to make sure the information on my Website is up-to-date 
 I will not be liable to You or anyone else for any decision made or action taken in reliance on the information given on my Website or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
 ## Privacy Disclaimer
-By using my Website, you hereby consent to my the following policy and agree to its terms.
+By using my Website, you hereby consent to the following policy and agree to its terms.
 
-My Website do not ask for any personal information in any form whatsoever. However, if you contact me directly, I may receive additional information about you such as your name, email address, and any other information you may choose to provide.
+My Website do not collect any personal information in any form whatsoever. However, I do use Cloudflare Web Analytics to see vistor metrics such as the number of visitors and which country they are from.
 
-There are no advertisement on this Website. I do not and will not incorporate advertisement on my personal Website in any shape or form. I hate them as much as you do! I value your experience much more than money:)
+Furthermore, there are no advertisement on this Website. I do not and will not incorporate advertisement on my personal Website in any shape or form. I hate them as much as you do! I value your experience much more than money:)
 
 ## Contact me
 If you have any questions about this Disclaimer, You can contact me at disclaimer@marcusc.me.
