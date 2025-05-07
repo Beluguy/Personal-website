@@ -31,11 +31,16 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 ## Education
 ### Bachelor of Applied Science, Electrical Engineering 
-[The University of British Columbia](https://www.ubc.ca/)  • Sep 2021 - Apr 2026
+[The University of British Columbia](https://www.ubc.ca/)  • Sep 2021 - Apr 2027
 
 ***
 
 ## Experience
+
+### Undergrad Power Electronics Researcher
+[Power Electronic Systems and Informatics Laboratory (PESIL)](https://ece.ubc.ca/) • Vancouver, British Columbia, Canada • May 2025 - Present
+
+- Designing new gate driver circuits to reduce the cost and size of solid-state DC circuit breakers
 
 ### COTS Avionics Hardware Lead
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Present
