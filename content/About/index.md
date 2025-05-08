@@ -110,6 +110,11 @@ Transport Canada • Jun 2021
 
 ## Honours & awards
 
+### Graduating Class of 1969 Electrical Engineering Award
+The University of British Columbia • Feb 2025
+
+- This award has been endowed by members of the graduating class of 1969 in Electrical Engineering for a student with good academic standing entering fourth year who has demonstrated leadership through active involvement in student government, professional societies, and/or campus and community activities. The award is made on the recommendation of the Department of Electrical and Computing Engineering.
+
 ### Francis Alexander Memorial Scholarship
 The University of British Columbia • Apr 2024
 
