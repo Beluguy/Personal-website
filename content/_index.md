@@ -1,6 +1,6 @@
-Welcome! I'm glad that you stopped by. I am a fourh year electrical engineering student at [The University of British Columbia][1] (UBC) who is looking for an electronics related internship starting from the summer of 2026.
+Welcome! I'm glad that you stopped by. I am a fourth year electrical engineering student at [The University of British Columbia][1] (UBC) who is looking for an electronics related internship starting from the summer of 2026.
 
-I have worked at [Tenstorrent][2] as a package layout design intern. I am also a part of [UBC Rocket][3] as the Avionics Hardware Team Lead. 
+I have worked at [Tenstorrent][2] as a package layout design intern. I am also a part of [UBC Rocket][3] as the Avionics Hardware Lead. 
 
 Aside from school, I am passionate about IT, electronics, and space! I like to keep up with the latest tech news, tinker with electronics, play table tennis, watch sci-fi movies, and fly FPV drones.
 
