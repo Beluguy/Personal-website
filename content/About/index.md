@@ -42,14 +42,17 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 - Designing new gate driver circuits to reduce the cost and size of solid-state DC circuit breakers
 
-### COTS Avionics Hardware Lead
+- Reviewing academic papers on passive and active gate drivers to understand their topologies, advantages, and disadvantages
+
+- Simulating gate driver circuits using LTspice to see the interaction between a specific gate driver, circuit parasitics, a power transistor, and a varistor in parallel to the power transistor
+### Avionics Hardware Lead
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Present
 
-- Leading a team of 10 to build the avionics hardware for our next generation of rocket, named Sunburst 
+- Leading a team of 10 to build the avionics hardware for our next generation of rocket, named Sunburst
 
-- Prototyping and designing the second generation of the radio/live telemetry system for our avionics system
+- Designing and prototyping the second generation of the live telemetry and live video system for our avionics system
 
-### COTS Avionics Hardware Designer
+### Avionics Hardware Designer
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2022 - Aug 2024
 
 - Designed and validated the [radio communication PCB](/projects/Radio-PCB) for North American’s first successful student made 2 stage rocket, which won first place in the advanced category at the Launch Canada 2023 Rocketry Competition
