@@ -33,6 +33,9 @@ I find myself already pretty good at computer stuff, but I never really understa
 ### Bachelor of Applied Science, Electrical Engineering 
 [The University of British Columbia](https://www.ubc.ca/)  • Sep 2021 - Apr 2027
 
+### Minor in entrepreneurship 
+[UBC Sauder School of Business](https://www.sauder.ubc.ca/) • Sep 2024 - Apr 2027
+
 ***
 
 ## Experience
@@ -45,6 +48,7 @@ I find myself already pretty good at computer stuff, but I never really understa
 - Reviewing academic papers on passive and active gate drivers to understand their topologies, advantages, and disadvantages
 
 - Simulating gate driver circuits using LTspice to see the interaction between a specific gate driver, circuit parasitics, a power transistor, and a varistor in parallel to the power transistor
+
 ### Avionics Hardware Lead
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Present
 
@@ -59,7 +63,7 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 - Developed the first generation of [BMS](/projects/bhs) for our avionics system
 
-### Package Layout Design Intern
+### Package Engineering Intern (SI/PI & Layout)
 [Tenstorrent](https://tenstorrent.com/) • Toronto, Ontario, Canada • Jan 2024 - Aug 2024
 
 - Designed die-to-die interconnect and PDN layouts for advanced and standard packages using Cadence Allegro Advanced Package Designer (APD), by considering SI/PI constraints and design rules such as trace-to-trace overlap, length matching, and maximum allowed via stack.
@@ -67,13 +71,6 @@ I find myself already pretty good at computer stuff, but I never really understa
 - Investigated the effect of variables such as signal to ground ratio, RX/TX termination, channel length, and data rate, on eye height & width for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps using Ansys electronics desktop (AEDT) HFSS.
 
 - Documented lessons learned, tips and tricks for APD and AEDT, and the many variations of die-to-die interconnect and PDN layouts.
-
-<!--
-### Vice President Hardware Engineering
-[Edge-0304](https://edge0304.com/) • Vancouver, British Columbia, Canada • Aug 2023 - Present
-
-- Currently leading a team of hardware engineers (students) to work on smart home related solutions, such as smart bug racket, smart switch, and smart mirror (future project)
--->
 
 ### Teaching Assistant
 [UBC CPEN 211 - Introduction to Microcomputers](https://ece.ubc.ca/courses/cpen-211/) • Vancouver, British Columbia, Canada • Sep 2023 - Dec 2023
