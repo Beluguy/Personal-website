@@ -55,7 +55,7 @@ If you are seeing glitchy or wrong BIOS/UEFI resolution in your PiKVM session, l
 1. Save the file by pressing ```Ctrl``` and ```X``` at the same time, type ```y```, and press ```Enter```.
 1. Run ```kvmd-edidconf --apply``` to apply the changes.
 1. Run ```ro``` to switch to Read-Only mode.
-1. Check the stream to check whether your BIOS/UEFI is displayed correctly in PiKVM. If not, restart the host, not the device running PiKVM. Hopefully your BIOS/UEFI is finally being displayed correct on your PiKVM like the following screenshot. If not, you can always undo these changes and restore the default EDID by running the command below the screenshot.
+1. Check the stream to check whether your BIOS/UEFI is displayed correctly in PiKVM. If not, restart the host, not the device running PiKVM. Hopefully your BIOS/UEFI is finally being displayed correct on your PiKVM like the following screenshot. If not, you can always undo these changes and restore the default EDID by running the commands below the screenshot.
 ![correct BIOS/UEFI resolution](images/correct.png)
 
 ```
