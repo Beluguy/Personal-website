@@ -23,7 +23,7 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
 
-This tutorial is mostly for my reference in case for when I forget how to fix this issue in the future. But I will try to be as beginner friend as much as possible.
+This tutorial is mostly for my reference in case for when I forget how to fix this issue in the future. But I will try to be as beginner friendly as much as possible.
 
 If you are seeing glitchy or wrong BIOS/UEFI resolution in your PiKVM session, like the following screenshot, follow the steps below the picture!
 ![glitchy or wrong BIOS/UEFI resolution](images/wrong.png)

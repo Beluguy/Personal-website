@@ -45,7 +45,7 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 - Designing new gate driver circuits to reduce the cost and size of solid-state DC circuit breakers
 
-- Reviewing academic papers on passive and active gate drivers to understand their topologies, advantages, and disadvantages
+- Reviewing academic papers gate drivers to understand their topologies, advantages, and disadvantages
 
 - Simulating gate driver circuits using LTspice to see the interaction between a specific gate driver, circuit parasitics, a power transistor, and a varistor in parallel to the power transistor
 
