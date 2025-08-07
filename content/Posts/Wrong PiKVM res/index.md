@@ -25,7 +25,7 @@ layoutBackgroundHeaderSpace: false
 
 This tutorial is mostly for my reference in case for when I forget how to fix this issue in the future. But I will try to be as beginner friendly as much as possible.
 
-If you are seeing glitchy or wrong BIOS/UEFI resolution in your PiKVM session, like the following screenshot, follow the steps below the picture!
+If you are seeing glitchy or wrong BIOS/UEFI resolution in your PiKVM session (I am actually using the BliKVM HAT), like the following screenshot, follow the steps below the picture!
 ![glitchy or wrong BIOS/UEFI resolution](images/wrong.png)
 
 1. First, if you haven't tried the official troubleshooting steps, you should try that. [Here](https://docs.pikvm.org/faq/) is the link to that, and scroll down to the "Glitchy or wrong BIOS/UEFI resolution" section in that page. However, those steps didn't work for me. Fortunately, I have figured out a way to fix this!
