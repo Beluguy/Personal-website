@@ -40,37 +40,39 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 ## Experience
 
-### Undergrad Power Electronics Researcher
-[Power Electronic Systems and Informatics Laboratory (PESIL)](https://ece.ubc.ca/) • Vancouver, British Columbia, Canada • May 2025 - Present
-
-- Designing new gate driver circuits to reduce the cost and size of solid-state DC circuit breakers
-
-- Reviewing academic papers on gate drivers to understand their topologies, advantages, and disadvantages
-
-- Simulating gate driver circuits using LTspice to see the interaction between a specific gate driver, circuit parasitics, a power transistor, and a varistor in parallel to the power transistor
-
 ### Avionics Hardware Lead
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Present
 
 - Leading a team of 10 to build the avionics hardware for our next generation of rocket, named Sunburst
 
-- Designing and prototyping the second generation of the live telemetry and live video system for our avionics system
+- Designing and prototyping a next‑generation live‑telemetry and video system with >10 km range
+
+- Designed and assembled the next generation 8‑layer, 2-sided flight controller PCB that is 30 % smaller yet supports double the sensor count, delivering higher redundancy and tighter form factor.
+
+### Undergrad Power Electronics Researcher
+[Power Electronic Systems and Informatics Laboratory (PESIL)](https://ece.ubc.ca/) • Vancouver, British Columbia, Canada • May 2025 - Aug 2025
+
+- Designing new gate driver circuits to reduce the cost and size of solid-state DC circuit breakers
+
+- Conducted comprehensive literature reviews on gate‑driver architectures, mapping each topology’s trade‑offs to guide component selection and design strategy
+
+- Modeled and validated gate‑driver interactions in LTspice, capturing parasitic effects, power‑transistor dynamics, and parallel varistor behavior to ensure reliable operation under transient conditions
 
 ### Avionics Hardware Designer
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2022 - Aug 2024
 
-- Designed and validated the [radio communication PCB](/projects/Radio-PCB) for North American’s first successful student made 2 stage rocket, which won first place in the advanced category at the Launch Canada 2023 Rocketry Competition
+- Designed, prototyped, and validated the [radio communication PCB](/projects/Radio-PCB) for the first‑generation modular radio‑communication PCB for the *Beauty & the Beast* rocket, earning first place in the advanced category at Launch Canada 2023
 
-- Developed the first generation of [BMS](/projects/bhs) for our avionics system
+- Engineered the inaugural [battery management system](/projects/bhs) for the rocket's avionics, which featured over-current and under-voltage protection
 
 ### Package Engineering Intern (SI/PI & Layout)
 [Tenstorrent](https://tenstorrent.com/) • Toronto, Ontario, Canada • Jan 2024 - Aug 2024
 
 - Designed die-to-die interconnect and PDN layouts for advanced and standard packages using Cadence Allegro Advanced Package Designer (APD), by considering SI/PI constraints and design rules such as trace-to-trace overlap, length matching, and maximum allowed via stack.
 
-- Investigated the effect of variables such as signal to ground ratio, RX/TX termination, channel length, and data rate, on eye height & width for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps using Ansys electronics desktop (AEDT) HFSS.
+- Quantified the impact of signal to ground ratio, RX/TX termination, channel length, and data rate, on eye height & width for a 2.5D chiplet die-to-die interconnect by performing parameter sweeps using Ansys electronics desktop (AEDT) HFSS
 
-- Documented lessons learned, tips and tricks for APD and AEDT, and the many variations of die-to-die interconnect and PDN layouts.
+- Documented lessons learned, tips and tricks for APD and AEDT, and the many variations of die-to-die interconnect and PDN layouts
 
 ### Teaching Assistant
 [UBC CPEN 211 - Introduction to Microcomputers](https://ece.ubc.ca/courses/cpen-211/) • Vancouver, British Columbia, Canada • Sep 2023 - Dec 2023
