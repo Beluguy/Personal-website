@@ -33,7 +33,7 @@ I find myself already pretty good at computer stuff, but I never really understa
 ### Bachelor of Applied Science, Electrical Engineering 
 [The University of British Columbia](https://www.ubc.ca/)  • Sep 2021 - Apr 2027
 
-### Minor in entrepreneurship 
+### Minor in Entrepreneurship 
 [UBC Sauder School of Business](https://www.sauder.ubc.ca/) • Sep 2024 - Apr 2027
 
 ***
