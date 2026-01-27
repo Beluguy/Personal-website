@@ -115,6 +115,11 @@ Transport Canada • Jun 2021
 
 ## Honours & awards
 
+### PMC-Sierra Founders' Award in Electrical and Computer Engineering
+The University of British Columbia • Jan 2026
+
+- This award is for students with interest and achievement in communication system design or integrated circuit design on the basis of academic achievement, leadership, and entrepreneurship.
+
 ### Graduating Class of 1969 Electrical Engineering Award
 The University of British Columbia • Feb 2025
 
