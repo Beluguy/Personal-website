@@ -23,9 +23,11 @@ disableImageZoom: true
 ---
 
 ## TL;DR
-Since I was small, I have always wondered the meaning of our existence and how did we got here… I believe advancing our technology would be our best shot at finding answers or even ask better questions. Then, I think technology itself is a gigantic field, so I should find something to focus on first. 
+Since I was small, I have always wondered the meaning of our existence and how we got here… I believe advancing our technology would be our best shot at finding answers or even asking better questions. Then, I think technology itself is a gigantic field, so I should find something to focus on first. I find myself already pretty good at computer stuff, but I never really understand how they work at a fundamental level. So I decided to find out by studying electrical engineering in school.
 
-I find myself already pretty good at computer stuff, but I never really understand what make them work at a fundamental level. So I decided to find out! Yeah, that's the story. Still learning how computer and electronics really work!
+While studying electrical engineering, I realized that technology itself is just a tool, and tools need operators. So, to increase the probability that we make any real progress on these big existential questions, we first have to ensure that we preserve ourselves, our consciousness in both time and space. To preserve our existence in space, we need to expand our presence beyond Earth. However, this path would expose us to serious biological challenges. For example, increased risk of cancer due to ionizing radiation, and vision impairment due to micro-gravity.
+
+Following my chain of logic, I think that advancing technology and preserving consciousness are equally important to tackle my questions. There are numerous ways to pursue both objectives simultaneously, but capital is likely a prerequisite for all of them. That’s why I have decided to co-founded companies to pursuit the two mentioned objectives.
 
 ***
 
@@ -40,8 +42,19 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 ## Experience
 
+### Co-Founder
+[Olympus Mons Laboratory](https://www.linkedin.com/company/olympus-laboratory) •  Canada • Dec 2025 - Present
+
+### Co-Founder 
+[PULCEIC](https://www.PULCEIC.com/) • Vancouver, British Columbia, Canada • Oct 2025 - Present
+
+### Electro sapiens
+[PARSEC](https://www..com/) • Vancouver, British Columbia, Canada • Sep 2025 - Present
+- yes, that's my position title. Big words, but sapiens in Latin means "wise" or "discerning". So the more boring version would be Electrical Specialist.
+
 ### Thrust Vectoring Rocket (TVR) Project Manager 
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2025 - Present
+- Developing a self-landing drone rocket powered by dual counter-rotating electric motors, serving as a testbed for advancing toward a self-landing liquid-fueled rocke
 
 ### Avionics Hardware Lead
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Present
