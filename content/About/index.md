@@ -27,7 +27,7 @@ Since I was small, I have always wondered the meaning of our existence and how w
 
 While studying electrical engineering, I realized that technology itself is just a tool, and tools need operators. So, to increase the probability that we make any real progress on these big existential questions, we first have to ensure that we preserve ourselves, our consciousness in both time and space. To preserve our existence in space, we need to expand our presence beyond Earth. However, this path would expose us to serious biological challenges. For example, increased risk of cancer due to ionizing radiation, and vision impairment due to micro-gravity.
 
-Following my chain of logic, I think that advancing technology and preserving consciousness are equally important to tackle my questions. There are numerous ways to pursue both objectives simultaneously, but capital is likely a prerequisite for all of them. That’s why I have decided to co-founded companies to pursuit the two mentioned objectives.
+Following my chain of logic, I think that advancing technology and preserving consciousness are equally important to tackle my questions. There are numerous ways to pursue both objectives simultaneously, but capital is likely a prerequisite for all of them. Hence, Olympus and PULCEIC were born
 
 ***
 
