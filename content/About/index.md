@@ -42,15 +42,15 @@ Following my chain of logic, I think that advancing technology and preserving co
 
 ## Experience
 
-### Co-Founder
+### Co-Founder & Board Member
 [Olympus Mons Laboratory](https://www.linkedin.com/company/olympus-laboratory) •  Canada • Dec 2025 - Present
 
-### Co-Founder 
-[PULCEIC](https://www.PULCEIC.com/) • Vancouver, British Columbia, Canada • Oct 2025 - Present
-
-### Electro sapiens
+### Director
 [PARSEC](https://www..com/) • Vancouver, British Columbia, Canada • Sep 2025 - Present
-- yes, that's my position title. Big words, but sapiens in Latin means "wise" or "discerning". So the more boring version would be Electrical Specialist.
+- Astronaut training in the Canadian Arctic for long-duration space missions.
+
+### Advisor 
+[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Mar 2026 - Present
 
 ### Thrust Vectoring Rocket (TVR) Project Manager 
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2025 - Present
@@ -65,6 +65,13 @@ Following my chain of logic, I think that advancing technology and preserving co
 
 - Designed and assembled the next generation 8‑layer, 2-sided flight controller PCB that is 30 % smaller yet supports double the sensor count, delivering higher redundancy and more efficient use of space
 
+### Avionics Hardware Designer
+[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2022 - Aug 2024
+
+- Designed, prototyped, and validated the [radio communication PCB](/projects/Radio-PCB) for the first‑generation modular radio‑communication PCB for the *Beauty & the Beast* rocket, earning first place in the advanced category at Launch Canada 2023 competition
+
+- Engineered the inaugural [battery management system](/projects/bhs) for the rocket's avionics, which featured over-current and under-voltage protection
+
 ### Undergrad Power Electronics Researcher
 [Power Electronic Systems and Informatics Laboratory (PESIL)](https://ece.ubc.ca/) • Vancouver, British Columbia, Canada • May 2025 - Aug 2025
 
@@ -73,13 +80,6 @@ Following my chain of logic, I think that advancing technology and preserving co
 - Conducted comprehensive literature reviews on gate‑driver architectures, mapping each topology’s trade‑offs to guide component selection and design strategy
 
 - Modeled and validated gate‑driver interactions in LTspice, capturing parasitic effects, power‑transistor dynamics, and parallel varistor behavior to ensure reliable operation under transient conditions 
-
-### Avionics Hardware Designer
-[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2022 - Aug 2024
-
-- Designed, prototyped, and validated the [radio communication PCB](/projects/Radio-PCB) for the first‑generation modular radio‑communication PCB for the *Beauty & the Beast* rocket, earning first place in the advanced category at Launch Canada 2023 competition
-
-- Engineered the inaugural [battery management system](/projects/bhs) for the rocket's avionics, which featured over-current and under-voltage protection
 
 ### Package Engineering Intern (SI/PI & Layout)
 [Tenstorrent](https://tenstorrent.com/) • Toronto, Ontario, Canada • Jan 2024 - Aug 2024
