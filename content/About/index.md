@@ -40,12 +40,8 @@ I find myself already pretty good at computer stuff, but I never really understa
 
 ## Experience
 
-### Co-Founder & Board Member
-[Olympus Mons Laboratory](https://www.linkedin.com/company/olympus-laboratory) •  Canada • Dec 2025 - Present
-
-### Director
-[PARSEC](https://www..com/) • Vancouver, British Columbia, Canada • Sep 2025 - Present
-- Astronaut training in the Canadian Arctic for long-duration space missions.
+### Co-Founder
+[Stealth]() •  Canada • Dec 2025 - Present
 
 ### Advisor 
 [UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Mar 2026 - Present
