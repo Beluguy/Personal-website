@@ -50,7 +50,7 @@ Doppler, path loss, and delay run live in the hardware loop today. The fading mo
 
 The system runs in two phases.
 
-**Phase 1 — Orbit simulation (MATLAB).** `OrbitSim.m` uses the [Satellite Communications Toolbox](https://www.mathworks.com/products/satellite-communications.html) to model the relative motion between a simulated CubeSat and a ground station. You give it a handful of orbital elements (altitude, eccentricity, inclination), the ground station coordinates, the carrier frequency, and a rain rate, and it produces three time-series profiles for a full satellite overpass: total path loss (dB), Doppler shift (Hz), and propagation delay (s). One detail worth flagging: we had to modify the ITU-R P.676 (gaseous absorption) and P.838 (rain attenuation) models to lower their frequency limits below 1 GHz so we could run them at 915 MHz — which means those results sit outside the ITU's verified data range, so we use them with that caveat in mind.
+**Phase 1 — Orbit simulation (MATLAB).** `OrbitSim.m` uses the [Satellite Communications Toolbox](https://www.mathworks.com/products/satellite-communications.html) to model the relative motion between a simulated CubeSat and a ground station. You give it the ground station coordinates, the carrier frequency, a rain rate, and a handful of orbital elements, such as altitude, eccentricity, inclination, and it produces three time-series profiles for a full satellite overpass: total path loss (dB), Doppler shift (Hz), and propagation delay (s).
 
 **Phase 2 — Real-time emulation (hardware-in-the-loop).** `DCETest.m` takes those profiles and applies them to a live RF signal as the simulated overpass plays out. A USRP B210 SDR applies the Doppler shift (complex-exponential multiplication) and the delay (a circularly-shifted buffer), and a programmable attenuator (Adaura AD-USB2AR38G95) applies the path loss in 0.25 dB steps over a serial connection. A `tic`/`toc` timing loop keeps every effect applied at the correct simulated moment.
 
@@ -89,7 +89,7 @@ The second piece was the **DCE diagram** — the labeled system diagram that lay
 *The GTEM cell at the UBC Radio Science Lab. The device under test goes inside this shielded enclosure, which gives us a clean, controlled environment to run the emulated channel over the air.*
 
 ![](images/LoRa.jpg)
-*The Semtech LR1121 evaluation kit on its ST Nucleo carrier. This is our device under test.
+*The Semtech LR1121 evaluation kit on its ST Nucleo carrier. This is our device under test.*
 
 ![](images/Prog_Att.jpg)
 *The Adaura AD-USB2AR38G95 programmable attenuator, which does the dynamic part of the path loss emulation. MATLAB controls it over USB and steps the attenuation in 0.25 dB increments to follow the simulated overpass in real time. The two channels cover both link directions.*

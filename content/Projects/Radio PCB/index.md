@@ -19,6 +19,7 @@ showEdit: false
 showViews: false
 showLikes: false
 layoutBackgroundHeaderSpace: false
+excludeRecent: true
 ---
 
 ## Introduction
