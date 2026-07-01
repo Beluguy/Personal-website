@@ -25,6 +25,11 @@
   pageRef = "posts"
   weight = 30
 
+[[main]]
+  name = "Resume"
+  url = "/Marcus_Resume.pdf"
+  weight = 40
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
