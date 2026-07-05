@@ -1,5 +1,5 @@
 ---
-title: "Home Server"
+title: "Homelab"
 # Description: 
 tags: ["hobby", "TrueNAS", "NAS", "Self-hosting"]
 date: 2025-01-05
