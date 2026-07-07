@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Channel Emulator"
 # Description: 
-tags: ["Academic", "ELEC 491", "Satellite", "SDR", "LoRa"]
+tags: ["Academic", "ELEC 491", "Satellite", "SDR", "LoRa", "RF"]
 date: 2026-04-01
 
 showDate : true

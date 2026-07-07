@@ -2,7 +2,7 @@
 title: "Self-balancing robot"
 date: 2025-04-28
 # description: 
-tags: ["Academic", "ELEC 391", "Robot"]
+tags: ["Academic", "ELEC 391", "Robot", "PID"]
 
 showDate : true
 showDateOnlyInArticle : false

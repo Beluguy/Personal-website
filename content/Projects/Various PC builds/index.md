@@ -19,11 +19,14 @@ tags: ["hobby", "PC building"]
 1. Typically, building a computer ourselves is more cost effective than buying a pre-build computer, as you can pick the parts by yourself that suit your needs. However, this has been false😭 for the past ~2 years due to the pandemic and cryptocurrency boom, so I didn't build as much PCs as I would like to. 
 
 ## Some computers I have built in the past (will keep updating):
-![PC3](featured.jpg)
 
-![PC1](images/PC1.jpg)
+![](featured.jpg)
 
-![PC2](images/PC2.jpeg)
+![](images/PC3.jpg)
+
+![](images/PC1.jpg)
+
+![](images/PC2.jpeg)
 
 
 
