@@ -21,8 +21,6 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
 
-*More and better pictures coming soon*
-
 ## Introduction
 
 About a year and a half ago, I wrote about building [my first home server/homelab](/projects/homelab/), a single machine running TrueNAS that I put together in about a week over the Christmas break. At the very end of that post, I said that if I ever upgraded, I would add a second machine running Proxmox so I could separate the mission-critical storage from my tinker playground.
@@ -30,6 +28,9 @@ About a year and a half ago, I wrote about building [my first home server/homela
 Just like most things in life, it did not go exactly the way I said it would. Storage did end up separated from my tinker playground, but instead of buying or building a second Proxmox machine, I got a turnkey NAS from Ubiquiti. But don't worry, my disappointed readers, the Proxmox part still happened. And there are not one, but two Proxmox machines. Those three machines are now across two locations, along with a few other things that I had been planning in my head for a while.
 
 Why the change? You gotta keep reading to find out.
+
+![](featured.jpg)
+*Rack, front interior*
 
 ## Hardware
 
@@ -107,7 +108,18 @@ There are still a few things I am planning or actively working on:
 
 If you want to reach out about any of this, feel free to contact me via email or [LinkedIn](https://linkedin.com/in/techno-marcus).
 
-Thanks for reading. See you at V3, whenever that machine inevitably needs a buddy.
+Thanks for reading. See you at V3, which is when that machine inevitably needs a buddy or the exising stack gets a substantial enough upgrade worth a V3.
+
+## More Pictures:
+
+![](/images/front.jpg)
+*Rack, front side with door*
+
+![](/images/right_side.jpg)
+*Rack, right side with no door. I know the cabling looks messy, but every cable is actually quite tracable*
+
+![](/images/top_right_side.jpg)
+*Rack, top side with three fans. There are two more fans on the left and right, and they guide the air from the front to the back, then exit at the top two fans*
 
 [^entropy]: Hey, I know the human body dumps about 100 W of heat at rest, which is way less than the 355 W from the 7900 XTX + ~100 W from the 13600K + ~50 W for RAM, fans, SSDs and more. But I am also counting my daily pot stirring activity.
 
