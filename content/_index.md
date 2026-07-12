@@ -2,7 +2,7 @@ Welcome! I'm glad that you stopped by. I am a fourth year electrical engineering
 
 I have worked at [Tenstorrent][2] as a package layout design intern (SI/PI & Layout), and UBC's [Power Electronics Systems and Informatics Laboratory][3] as an Undergrad Power Electronics Researcher. I also co-led [UBC Rocket][4]'s (one of UBC's engineering design teams) Avionics Hardware Team and Thrust Vectoring Rocket project.
 
-Aside from school, I am passionate about IT, electronics, and space! I like to keep up with the latest tech news, tinker with electronics, play table tennis, watch sci-fi movies, fly FPV drones, and going to the sauna.
+Aside from school, I am passionate about IT, electronics, and space! I like to keep up with the latest tech news, tinker with electronics, play table tennis, watch sci-fi movies, fly FPV drones, and go to the sauna.
 
 Go to the [about][5] page to learn more about me!
 
