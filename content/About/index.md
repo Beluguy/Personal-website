@@ -41,17 +41,18 @@ I find myself already pretty good at computer stuff, but I never really understa
 ## Experience
 
 ### Co-Founder
-[Stealth]() •  Canada • Dec 2025 - Present
+[Stealth]() •  Canada • Dec 2025 - Jun 2026
+- Failed, but learned a lot. I will be back.
 
 ### Advisor 
-[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Mar 2026 - Present
+[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Mar 2026 - Jul 2026
 
 ### Thrust Vectoring Rocket (TVR) Project Manager 
-[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2025 - Present
+[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2025 - Mar 2026
 - Developing a self-landing drone rocket powered by dual counter-rotating electric motors, serving as a testbed for advancing toward a self-landing liquid-fueled rocke
 
 ### Avionics Hardware Lead
-[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Present
+[UBC Rocket](https://www.ubcrocket.com/) • Vancouver, British Columbia, Canada • Sep 2024 - Mar 2026
 
 - Leading a team of 10 to build the avionics hardware for our next generation of rocket, named Sunburst
 
